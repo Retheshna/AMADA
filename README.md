@@ -2,8 +2,9 @@
 
 **Multimodal hallucination & misinformation detection with deepfake forensics and difficulty-adaptive confidence calibration**
 
-📄 **Published at IEEE ISAIA 2026**, the IEEE International Conference on Intelligent Systems and Interdisciplinary
-Applications, Montclair State University, NJ, USA (Oct 2026) · **Author:** Retheshna Posina (sole author)
+📄 **Accepted and presented at IEEE ISAIA 2026**, the IEEE International Conference on Intelligent Systems and
+Interdisciplinary Applications, Montclair State University, NJ, USA (Oct 2026). Proceedings forthcoming in IEEE Xplore.
+**Author:** Retheshna Posina (sole author)
 
 ![Python](https://img.shields.io/badge/Python-3.9-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
@@ -136,7 +137,8 @@ Contact me on [LinkedIn](https://www.linkedin.com/in/retheshnaposina/).
   booktitle = {2026 IEEE International Conference on Intelligent Systems and Interdisciplinary Applications (ISAIA)},
   address   = {Montclair, NJ, USA},
   year      = {2026},
-  publisher = {IEEE}
+  publisher = {IEEE},
+  note      = {Accepted and presented; to appear}
 }
 ```
 
